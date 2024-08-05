@@ -1,11 +1,11 @@
-<<<<<<< Updated upstream
+
 
 
 
 
 bug-130 jhfjkgfjgh
 jghsdjs
-=======
+
 // bug 123
 ghfghgj
 gskjshskdj
